@@ -1,0 +1,8 @@
+db:
+  user: postgres
+  password: postgres
+  host: localhost
+  port: 5432
+  database: anomaly_db
+model:
+  path: ./model/isolation_forest.pkl
